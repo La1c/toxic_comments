@@ -91,7 +91,7 @@ kiwisolver==1.1.0
 langdetect==1.0.7
 lazy-object-proxy==1.4.2
 lightgbm==2.3.0
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mccabe==0.6.1
